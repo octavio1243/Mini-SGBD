@@ -5,6 +5,7 @@
 --------------------------
 | Símbolos | Descripción | 
 |----------|-------------|
-| hola | mundo |
+| <> | Es un símbolo terminal |
+| {} | Se repite una o más veces |
+| [] | Es opcional |
 
-<> indica que es un terminal del arbol, {} indica que se puede repetir 1 o más veces y lo que está en [] indica que es opcional
